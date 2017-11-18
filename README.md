@@ -1,3 +1,8 @@
+# Disclaimer:
+ - This code was not developed by me, it was by Jordan Hudgens
+ - You can check his course, where he teaches you how to build this app here:
+    - https://tinyurl.com/ydgacsxo
+
 # Overtime App
 
 Key requirement: company needs documentation that salaried employees did or did not get overtime each week
