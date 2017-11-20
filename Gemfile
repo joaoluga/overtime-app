@@ -26,3 +26,9 @@ group :development do
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem 'devise', '~> 4.2'
+
+#I was having this issue: https://github.com/codahale/bcrypt-ruby/issues/142
+# So i had to uninstall bcrypt then install manually and add this line here
+gem 'bcrypt', platforms: :ruby
