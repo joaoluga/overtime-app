@@ -34,3 +34,4 @@ gem 'devise', '~> 4.2'
 # So i had to uninstall bcrypt then install manually (gem install bcrypt --platform=ruby). Also add this line here
 gem 'bcrypt','~> 3.1.11', platforms: :ruby
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'gritter', '~> 1.2.0'
